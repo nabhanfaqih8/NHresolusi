@@ -2,10 +2,9 @@ NH RENCANA KONTEN
 -Membuat Xamp
 -membuat js
 -Membuat Modul 
-<pai>
 -menmabahkan data
 -membuat rpp
--menambahkan buat modul b.arab
 menambahkan soal-soal bahasa arab
 menambahkan kisi-kisinya
 buku paketnya
+
