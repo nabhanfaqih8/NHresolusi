@@ -8,3 +8,4 @@ NH RENCANA KONTEN
 -menambahkan buat modul b.arab
 menambahkan soal-soal bahasa arab
 menambahkan kisi-kisinya
+buku paketnya
