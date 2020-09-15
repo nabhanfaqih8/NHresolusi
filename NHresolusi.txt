@@ -5,3 +5,4 @@ buat xampp
 buat js
 menambahkan php
 menghapus js
+menambahkan pyton
