@@ -2,3 +2,5 @@ NH RENCANA KONTEN
 -Membuat Xamp
 -membuat js
 -Membuat Modul 
+-menmabahkan data
+-membuat rpp
