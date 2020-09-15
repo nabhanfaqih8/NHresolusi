@@ -1,3 +1,5 @@
 NHRESOLUSI
 Buat website
 buat forum diskusi
+buat xampp
+buat js
