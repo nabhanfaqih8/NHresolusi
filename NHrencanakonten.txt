@@ -2,6 +2,7 @@ NH RENCANA KONTEN
 -Membuat Xamp
 -membuat js
 -Membuat Modul 
--menmabahkan data
+-buat buku pai
 -membuat rpp
 -menambahkan buat modul b.arab
+
